@@ -18,4 +18,4 @@ Stwórz konstruktor kalkulatora z czterema podstawowymi działaniami. Konstrukto
 
 #### Zadanie 3( gra )
 
-Stwórz konstruktor z dwoma metodami. Jedna co sekundę ma zminiać zawartość pola typu number na losową liczbę z zakresu 1-10. Druga ma sprawdzać czy liczba jest większa o 5. Jeśli tak to program ma zakończyć działanie. Obie metody muszą być wywołane na różnych obiektach i wymianiać dane przy pomocy pola prototype.
+Stwórz konstruktor z dwoma metodami. Jedna co sekundę ma zminiać zawartość pola typu number na losową liczbę z zakresu 1-10. Druga ma sprawdzać czy liczba jest większa o 5. Jeśli tak to program ma zakończyć działanie. Obie metody muszą być wywołane na różnych obiektach
